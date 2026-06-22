@@ -137,6 +137,4 @@ H2 Console — prints mostrando tabelas e dados carregados pelo `DataLoader`:
 
 <img width="576" height="736" alt="H2 - plans" src="https://github.com/user-attachments/assets/9c7ab147-69ff-4827-afd7-87129582b6ab" />
 
-Descrição: verifique as tabelas `aluno`, `plano`, `instrutor`, `treino` e `aluno_treino` e confirme que os dados de exemplo foram inseridos.
-
 ---
