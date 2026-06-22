@@ -140,12 +140,3 @@ H2 Console — prints mostrando tabelas e dados carregados pelo `DataLoader`:
 Descrição: verifique as tabelas `aluno`, `plano`, `instrutor`, `treino` e `aluno_treino` e confirme que os dados de exemplo foram inseridos.
 
 ---
-
-## Próximos passos sugeridos
-- Gerar um PDF com essas capturas (posso montar se quiser).
-- Adicionar DTOs e validação para endpoints.
-- Incluir testes de integração para os fluxos principais.
-
----
-
-Se quiser que eu gere o PDF com as imagens nesta ordem e inclua legendas, ou se preferir que eu desative as health checks do Mongo/Redis automaticamente, diga qual opção prefere e eu aplico a alteração em seguida.
